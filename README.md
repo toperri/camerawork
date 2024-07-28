@@ -1,6 +1,6 @@
-# camerawork
+# camerawork (ALPHA)
 
-Simulate FNF's camera movements within CSS/JS. The file is really lightweight and can be customized to implement more beat-like zooming.
+Simulate FNF's camera movements within CSS/JS. The file is really lightweight and can be customized to implement more beat-like zooming. Right now it only supports scaling that's FNF-like but i'll expand it more in the future!
 
 # License
 
